@@ -10,10 +10,6 @@
  OpenWrt 常用插件包源码合集，适用于 [Lean](https://github.com/coolsnowwolf/lede) 源码
 
  自动同步上游源码，一键拉取直接编译，不用再一个个找插件
-
- 本人所有编译的固件默认都是纯净极简版，只编译了openclash插件
-   
- 如需其他科学上网插件，可以拉取我另一个仓库 [helloworld-passwall](https://github.com/ysx88/helloworld-passwall) 
    
  所有插件都为 GITHUB 上收集的开源插件，感谢作者们的付出
 
