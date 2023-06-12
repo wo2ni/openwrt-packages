@@ -13,22 +13,6 @@
    
  所有插件都为 GITHUB 上收集的开源插件，感谢作者们的付出
 
-### 插件说明
-| 插件 | 说明 |
-| ------------- | ------------- |
-| luci-app-adguardhome | AdGuard Home 广告过滤 |
-| luci-app-amlogic | 晶晨宝盒 |
-| luci-app-argon-config | Argon 主题设置，需搭配 Argon 主题使用 |
-| luci-app-autoupdate | 在线更新固件 |
-| luci-app-linkease |易有云插件 |
-| luci-app-onliner | 在线用户 |
-| luci-app-openclash | OpenClash 小猫咪科学上网插件 |
-| luci-app-passwall | PassWall 科学上网插件 |
-| luci-app-passwall2 | PassWall2 科学上网插件 |
-| luci-app-ssr-plus | SSR Plus+ 科学上网插件 |
-| luci-app-vssr | Hello World 科学上网插件 |
-| luci-theme-argon | 老竭力开发的 Argon 主题 |
-| luci-theme-edge | 老竭力开发的 edge 主题 |
 </div>
 
 ## 插件中英文名称对照表
