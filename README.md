@@ -1,9 +1,10 @@
+<div align="center">
+<img width="768" src="https://github.com/ysx88/ysx88/blob/main/assets/OpenWrt-logo.png"/>
+</div>
+
 <h4 align="center">访客数 :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/ysx88/count.svg" alt="ysx88 :: Visitor's Count" /></p>
-   
-![](https://raw.githubusercontent.com/ysx88/ysx88/main/assets/github-snake.svg)
-<div align="center">
 <h1>OpenWrt — 常用插件包合集</h1>
 
 ### 项目说明
