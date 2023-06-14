@@ -1,5 +1,5 @@
 <div align="center">
-<img width="768" src="https://github.com/ysx88/ysx88/blob/main/assets/OpenWrt-logo.png"/>
+<img width="768" src="https://github.com/ysx88/ysx88/blob/main/assets/OpenWrt.png"/>
 </div>
 
 <h4 align="center">访客数 :eyes:</h4>
